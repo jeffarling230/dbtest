@@ -8,4 +8,22 @@
   "profile": {
     "name": "typicode"
   }
+  "results": [
+  {
+    "name": "this"
+    "id": "1"
+  }
+  {
+    "name": "is"
+    "id": "2"
+  }
+  {
+    "name": "for"
+    "id": "3"
+  }
+  {
+    "name": "CSCE490"
+    "id": "3"
+  }
+  ]
 }
