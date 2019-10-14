@@ -1,8 +1,20 @@
 {
-  "posts": [
+  "results": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "this"
+    }
+    {
+      "id": 2,
+      "name": "is"
+    }
+    {
+      "id": 3
+      "name": "for"
+    }
+    {
+      "id": 4
+      "name": "CSCE490"
     }
   ],
   "profile": {
