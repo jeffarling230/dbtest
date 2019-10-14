@@ -1,29 +1,22 @@
 {
-  "postss": [
+  "results": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "this"
+    }
+    {
+      "id": 2,
+      "name": "is"
+    }
+    {
+      "id": 3,
+      "name": "for"
+    }
+    {
+      "id", 4
+      "name", "CSCE490"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "me"
   }
-  "results": [
-  {
-    "name": "this"
-    "id": "1"
-  }
-  {
-    "name": "is"
-    "id": "2"
-  }
-  {
-    "name": "for"
-    "id": "3"
-  }
-  {
-    "name": "CSCE490"
-    "id": "3"
-  }
-  ]
-}
