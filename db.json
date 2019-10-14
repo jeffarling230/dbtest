@@ -1,20 +1,11 @@
 {
-  "results": [
-  {
-    "name": "this"
-    "id": "1"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-  {
-    "name": "is"
-    "id": "2"
-  }
-  {
-    "name": "for"
-    "id": "3"
-  }
-  {
-    "name": "CSCE490"
-    "id": "3"
-  }
-  ]
 }
