@@ -2,19 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "name": "this"
-    }
-    {
-      "id": 2,
-      "name": "is"
-    }
-    {
-      "id": 3,
-      "name": "for"
-    }
-    {
-      "id": 4,
-      "name": "CSCE490"
+      "title": "hello"
     }
   ],
   "profile": {
